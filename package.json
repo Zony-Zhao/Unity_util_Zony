@@ -1,0 +1,17 @@
+{
+  "name": "com.zony.unity_util",
+  "version": "1.0.0",
+  "displayName": "util+taptap",
+  "description": "zony's uitl",
+  "unity": "2021.3.6",
+  "unityRelease": "0b5",
+  "dependencies": {
+   
+  },
+
+  "author": {
+    "name": "Zony Zhao",
+    "email": "1668069501@qq.com",
+    "url": "https://space.bilibili.com/227668176"
+  }
+}
