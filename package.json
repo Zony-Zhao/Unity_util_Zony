@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "util+taptap",
   "description": "zony's uitl",
-  "unity": "2021.3.6",
+  "unity": "2021.3",
   "unityRelease": "0b5",
   "dependencies": {
    
